@@ -1,0 +1,11 @@
+fname=firstName
+lname=lastName
+address=address1
+city=city
+country=name
+userid=email
+pwdName=password
+cpwdName=confirmPassword
+gender=Female
+training=//table[1]/tbody/tr[24]/td[2]/input[@name='Java and checkbox']
+submit=//tbody/tr[27]/td/input[@value=submit]
