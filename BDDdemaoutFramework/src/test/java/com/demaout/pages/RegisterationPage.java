@@ -70,7 +70,7 @@ public class RegisterationPage {
 		//driver.findElement(By.xpath(Utility.fetchApplicationElementProperty("submit"))).click();
 	}
 	public void cliclckclck() {
-		
+		//driver.sdfdsf
 	}
 
 
