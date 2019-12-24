@@ -69,8 +69,12 @@ public class RegisterationPage {
 	public void clickSubmit() {
 		//driver.findElement(By.xpath(Utility.fetchApplicationElementProperty("submit"))).click();
 	}
-	public void cliclckclck() {
-		//driver.sdfdsf
+	/*
+	 * public void cliclckclck() { //driver.sdfdsf }
+	 */
+	
+	public void printonconsole() {
+		System.out.println("new method to print register page added");
 	}
 
 
