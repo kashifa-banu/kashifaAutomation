@@ -69,9 +69,7 @@ public class RegisterationPage {
 	public void clickSubmit() {
 		//driver.findElement(By.xpath(Utility.fetchApplicationElementProperty("submit"))).click();
 	}
-	public void cliclckclck() {
-		
-	}
+	
 
 
 }
