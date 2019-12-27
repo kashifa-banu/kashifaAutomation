@@ -56,7 +56,7 @@ public class Steps {
 
 	@Then("^an alert should display$")
 	public void an_alert_should_display() throws Throwable {
-	    // Express the Regexp above with the code you wish you had
+	   System.out.println("success accepted");
 	    throw new PendingException();
 	}
 
