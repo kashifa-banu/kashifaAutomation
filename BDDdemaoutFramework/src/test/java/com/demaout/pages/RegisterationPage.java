@@ -63,7 +63,7 @@ public class RegisterationPage {
 	}
 
 	public void selectTraining() {
-		driver.findElement(By.xpath(Utility.fetchApplicationElementProperty("training"))).click();
+		//driver.findElement(By.xpath(Utility.fetchApplicationElementProperty("training"))).click();
 	}
 
 	public void clickSubmit() {
