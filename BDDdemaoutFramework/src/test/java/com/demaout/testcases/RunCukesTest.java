@@ -6,7 +6,8 @@ import cucumber.junit.Cucumber;
 
 @RunWith(Cucumber.class)
 @Cucumber.Options(format = {"pretty", "html:target/cucumber-html-report",
-		"json-pretty:target/cucumber-report.json"})
+		"json-pretty:target/cucumber-report.json"},
+features = {"classpath:com/demaout/testcases/demaout.feature"})
 
 public class RunCukesTest {
 
